@@ -1,16 +1,20 @@
-## Hi there 👋
+## PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdyd6625)](https://solved.ac/ghdyd6625/)
+<br>
 
-<!--
-**nyong0313/nyong0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
+| Date | Content | 비고 |
+| :--- | :--- | :--- |
+| 2026.01 ~ 2026.01 | (주)코드명인 인턴 | - |
+| 2025.06 ~ 2025.11 | 내일배움캠프 백엔드 트랙 | - |
+| 2025.03 ~ 2025.06 | 경북대학교 산학협력프로젝트1 with 데이터스트림즈 | - |
+| 2024.07 ~ 2025.08 | WFK ICT 봉사단 in 인도네시아 | - |
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project
+| Date | Content | 비고 |
+| :--- | :--- | :--- |
+| 2026.01 ~ 2026.01 | (주)코드명인 - 글로벌 중고거래 자동 리스팅 시스템 고도화 | - |
+| 2025.10 ~ 2025.11 | 내일배움캠프 백엔드 트랙 최종 프로젝트 **'Oddventure'** 서비스 백엔드 개발 | - |
+| 2025.03 ~ 2025.06 | 경북대학교 산학협력프로젝트1 with 데이터스트림즈 **'BigPicture'** 서비스 개발 | - |
+<br>
